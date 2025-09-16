@@ -81,15 +81,16 @@ The final **stacked model** with engineered features reduced RMSE from **2.76 â†
    ```
 3. **Run training**
    ```bash
-   python train.py
+   python train.ipynb
    ```
 
 3. **Generate predictions**
    ```bash
-   python predict.py
+   python predict.ipynb
    ```
 
 
 
    
+
 
