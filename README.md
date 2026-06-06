@@ -71,7 +71,7 @@ The final **stacked model** with engineered features reduced RMSE from **2.76 â†
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Human-Gechi/SCA-ML-AI-CHALLENGE.git
    cd sca-ppd-prediction
     ```
 
@@ -79,14 +79,14 @@ The final **stacked model** with engineered features reduced RMSE from **2.76 â†
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run training**
+3. **Run EDA**
    ```bash
-   python train.ipynb
+   python EDA.ipynb
    ```
 
 3. **Generate predictions**
    ```bash
-   python predict.ipynb
+   python Model.ipynb
    ```
 
 
