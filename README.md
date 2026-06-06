@@ -1,4 +1,4 @@
-# She Code Africa ML/AI Challenge – Postpartum Depression Prediction  
+# She Code Africa ML/AI Challenge 2ND PLACE WINNERS – Postpartum Depression Prediction  
 
 ## 📌 Project Overview  
 This project was developed for the **She Code Africa ML/AI Hackathon 2025**, with the challenge theme:  
@@ -89,6 +89,14 @@ The final **stacked model** with engineered features reduced RMSE from **2.76 �
    python predict.ipynb
    ```
 
+
+
+# Meet the team
+| Name | Role |
+|------|-------------------------|
+| Ogechukwu Okoli | Data Analyst |
+| Akanbi Glory | ML Engineer |
+| Olamide Lawal | ML Engineer/ Writer |
 
 
    
